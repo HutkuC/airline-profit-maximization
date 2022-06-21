@@ -1,0 +1,2 @@
+destination list : [regional, major | hub, ....., major | hub, regional]
+where the regional airports are in close proximity of the hub | major airports.
